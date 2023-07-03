@@ -1,0 +1,20 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #f8e0ff; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #6a0080;
+  text-align: center;
+}
+
+/* STYLE IMAGES */
+img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* STYLE NAV BAR */
