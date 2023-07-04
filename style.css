@@ -44,6 +44,15 @@ nav {
   */
 }
 
+#introText {
+  color: #2B2240;
+}
+
+.portImg {
+  border-radius: 25%;
+  border: 4px solid #D7CEED;
+}
+
 p {
   color: #564480;
   margin-top: 1em;
