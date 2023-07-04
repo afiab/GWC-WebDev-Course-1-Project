@@ -1,20 +1,29 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: #f8e0ff; 
+  background-color: #e5e5e5;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 /* STYLE TEXT */
 
 h1 {
-  color: #6a0080;
+  color: #ab87ff;
   text-align: center;
+  /*text-decoration-line:underline;
+  i dont want text decor */
+  text-decoration: none;
+}
+
+p {
+  color: #564480
 }
 
 /* STYLE IMAGES */
 img {
   width: 100%;
-  max-width: 100%;
+  max-width: 600px;
   height: auto;
+  border-radius: 8%;
 }
 
 /* STYLE NAV BAR */
