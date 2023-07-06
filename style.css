@@ -26,8 +26,8 @@ h1 {
   /*text-decoration-line:underline;
   i dont want text decor */
   text-decoration: none;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 h2 {
@@ -89,3 +89,7 @@ img {
 }
 
 /* STYLE NAV BAR */
+nav{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
